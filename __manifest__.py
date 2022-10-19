@@ -2,7 +2,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
 
 {
-    "name": "Inactive Sessions Timeout",
+    "name": "Inactive Sessions Timeout trial",
     "summary": """
         This module disable all inactive sessions since a given delay""",
     "author": "ACSONE SA/NV, "
